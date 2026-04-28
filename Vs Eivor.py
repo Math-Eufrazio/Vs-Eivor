@@ -100,7 +100,7 @@ while vida_Eivor > 0 and vida_vc > 0:
     elif escolha == "3":
         print("\nVocê se prepara para o golpe, levantando seu escudo!")
         time.sleep(2)
-        dano_recebido_reduzido = Trues
+        dano_recebido_reduzido = True
         if random.randint(1, 6) == 2:
             eivor_vai_atacar = True
         else:
