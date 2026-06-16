@@ -7,7 +7,7 @@ vida_Eivor = 150
 print("""░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░")
 
 
-                      JOGO JOGAVEL MUITO GAME GAYMOSO JOGO DE JOGADOR NATO                     
+                      JOGO JOGAVEL MUITO GAME JOGO DE JOGADOR NATO                     
 
 
 
