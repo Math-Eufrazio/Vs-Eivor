@@ -1,3 +1,18 @@
+
+Atualmente sendo atualizado, ainda contem o vs Eivor nos arquivos mas agora hospeda sua nova versão the tower
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ⚔️ Vs Eivor ⚔️
 
 Um pequeno RPG de batalha em terminal feito em Python, onde o jogador enfrenta o temível **Grande Eivor** em um combate até a morte.
